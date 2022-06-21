@@ -159,4 +159,32 @@ body {
     background: aquamarine;
     text-align: center;
     padding: 10px;
-  }
+ 
+    width: 100%;
+}
+
+.canvas .content .tkiri {
+  background: #a4c70b;
+  float: left;
+  width: 25%;
+  height: 100%;
+}
+
+.canvas .content .ttengah {
+  background:burlywood;
+  float: left;
+  text-align: center;
+  width: 50%;
+  height: 100%;
+}
+
+.canvas .content .tkanan {
+  background:brown;
+  float: right;
+  width: 25%;
+  height: 100%;
+}
+
+table {
+  border: gray 1px solid;
+  font-family: Arial, Helvetica, sans-serif;
